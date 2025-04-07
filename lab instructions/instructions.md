@@ -103,3 +103,32 @@ Wir haben mehrere Lötarbeitsplätze für die wir euch ein paar separate Hinweis
 * Lest euch in die Bedienungsanleitung der Lötstation ein bevor ihr sie benutzt!
 
 # 3D Druck
+Leider könnt ihr die 3D Drucker nicht selbst bedienen, aber sie stehen euch über unsere studentischen Hilfskräfte zur Verfügung. Bevor ihr losdruckt, überlegt euch wie man Objekte für den 3D Druck vorbereitet und was man beim Design beachten soll.
+
+Einen Einstieg für 3D Druck-Neulinge gibt es von einem ehemaligen Studierenden [hier](https://youtu.be/rgNHmEDM5Gw?feature=shared)
+
+Eine Übersicht über die Drucker, Software und Material gibt es auch in unserem [Wiki](https://github.com/HybridThingsLab/protobase/wiki/3D-Printing)
+
+Die Drucker haben auch ein paar Eigenschaften die zu beachten sind:
+* Das induktiv beheizte Druckbett ist für Träger von Herzschrittmachern und technischen Implantaten lebensgefährlich
+* 3D Drucker laufen automatisch an und haben für Finger gefährliche Einzugstellen. Das Gehäuse sollte nach Start des Drucks geschlossen werden und erst nach Ende wieder geöffnet werden.
+* Nur bereitgestellte Filamente verdrucken – nur die zugehörigen Druckeinstellungen verwenden
+* Es dürfen ausschliesslich die Prusa MK3S Drucker verwendet werden
+* Die Geräte dürfen nicht modifiziert werden
+* Die Druckergehäuse sind mit einem automatischen Löschsystem ausgestattet.
+
+# Verhalten im Notfall
+Macht euch mit dem [Alarmplan](https://www.tha.de/Binaries/Binary_30453/2025-Alarmplan.pdf) vertraut. Dieser hängt auch neben dem Telefon und der Türe aus.
+
+1. Erste Hilfe leisten.
+2. Rettung, Feuerwehr oder Polizei selbst rufen.
+3. Rettungskette bilden um die Einsatzkräfte einzuweisen.
+4. Wenn die Situation unter Kontrolle ist, über das bereitstehende Telefon bei der 5 anrufen, die hausinternen Hilfskräfte informieren und den Notfall melden.
+
+# Rechtlicher Rahmen
+* Ihr seid für euch selbst verantwortlich
+* Sollte etwas kaputt gehen, müsst ihr für den Schaden aufkommen
+* Wir empfehlen euch eine studentische Haftpflichtversicherung
+
+
+Viel Spaß im Prototyping Lab!
