@@ -82,3 +82,24 @@ Das Lab ist mit Schwerlastregalen ausgestattet.
 * **Immer nur eine Schublade öffnen – Schubladen sauber schliessen:** Die meisten unserer Schubladenkästen sind mit einer Mechanik ausgestattet, die verhindert dass mehrere Schubladen gleichzeitig herausgezogen werden können. Dies verhindert dass der Kasten in Richtung der Schubladen umkippen kann. Falls sich die Schubladen nicht öffnen lassen, ist vermutlich eine andere Schublade nicht sauber geschlossen. Baim Schliessen der Schubladen darauf achten dass sie vollständig geschlossen wird
 
 # Werkzeuge und Betriebsmittel
+Zu unserer Lab-Ausstattung gehören sowohl Werkzeuge (z.B.: Hammer, Schraubenzieher, Akkuschrauber), als auch Betriebsmittel (z.B.: Klebstoffe, Lötzinn, Schmierstoffe). Für beide gelten Regeln zur Nutzung. Diese Regeln lassen sich weitgehend in zwei Kategorien einteilen:
+* **Bedienungsanleitungen:** Diese enthalten grundlegende Informationen zur Bedienung von Werkzeugen. Diese findet ihr [hier](https://cloud.hs-augsburg.de/index.php/s/KLpJJ6Ji9xcs7NL).
+* **Sicherheitsdatenblätter:** Diese enthalten Informationen über die Gefahren, Zusammensetzungen und Notfallmaßnahmen über Betriebsmittel und sind [hier](https://cloud.hs-augsburg.de/index.php/s/RxP2EBXFnCXsiXe) zu finden.
+
+Zusätzlich gibt es [Betriebsanweisungen](https://cloud.hs-augsburg.de/index.php/s/s5xeLBk2bApmyn8), die euch einen schnellen Überblick über Gefahren und Schutzmaßnahmen von Werkzeugen und Betriebsmitteln bieten.
+
+Bevor ihr euer Projekt startet, macht euch mit den Werkzeugen und Betriebsmitteln die ihr benötigt vertraut. Wenn ihr Fragen habt - fragt! Viele Werkzeuge die wir alle schon einmal benutzt haben sind in der [BGI533](https://cloud.hs-augsburg.de/index.php/s/QDEA8k7pGXLYgac) beschrieben. Werft einen Blick rein bevor ihr den Hammer schwingt!
+
+Wir gehen davon aus dass ihr euch über die zur Verfügung gestellten Werkzeuge und Betriebsmittel vor Benutzung mit den bereit gestellten Dokumenten informiert. Sollten Fragen offen bleiben oder ihr euch nicht sicher sein, kommt auf uns zu! Wir möchten dass ihr sicher seid.
+
+# Lötarbeitsplatz
+Wir haben mehrere Lötarbeitsplätze für die wir euch ein paar separate Hinweise geben möchten und für die besondere Regeln gelten.
+* Gelötet wird ausschließlich unter Aufsicht. Sagt einer Aufsichtsperson Bescheid dass ihr jetzt lötet.
+* Beim Löten besteht Verbrennungs- und Brandgefahr. Handelt demensprechend.
+* Lötet unter keinen Umständen unter Spannung stehende Schaltungen. Prüft separat ob Spannung anliegt bevor ihr lötet. Ein Kondensator in der Schaltung kann immernoch geladen sein, obwohl ihr den Strom abgesteckt habt!
+* Verwendet nur die bereitgestellten Flussmittel und Lötzinn.
+* Benutzt die bereitgestellte Lötdampfabsaugung.
+* Erhitzte Bauteile können gesundheitsgefährdende Stoffe ausdampfen. Das riecht nach frisch gebackener Elektronik? Dann ist es sehr wahrscheinlich kaputt und ungesund. Informiert euch über die Bauteileigenschaften bevor ihr den Lötkolben ansetzt.
+* Lest euch in die Bedienungsanleitung der Lötstation ein bevor ihr sie benutzt!
+
+# 3D Druck
