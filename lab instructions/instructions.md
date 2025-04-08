@@ -22,6 +22,7 @@ Ihr findet uns im INCOM unter: [https://hsa.incom.org/workspace/967](https://hsa
 
 # ...und was soll diese Unterweisung?
 Damit ihr sicher mit den Werkzeugen, Einrichtungen und Betriebsmitteln arbeiten könnt, gibt es auf dieser Seite eine Aufklärung und Hinweise über:
+
 * die generelle Verhaltenshinweise im Prototyping Lab
 * Aufklärung über Gefahren
 * Rechtlicher Rahmen
@@ -55,6 +56,7 @@ Das Lab wird von wechselnden Personen betreut. Hier eine kleine Übersicht an Me
 Wir haben ein gut ausgestattetes [Sortiment](https://github.com/HybridThingsLab/protobase/wiki/Microcontrollers,-Sensors-and-Actuators) an Microcontrollern, Sensoren und [Grove-Zubehör](https://github.com/HybridThingsLab/protobase/wiki/Seeed-Grove-System). Ausserdem könnt ihr über unsere Hilfskräfte auf Lasercut und 3D Druck zugreifen. Schaut in unserem [Wiki](https://github.com/HybridThingsLab/protobase/wiki) vorbei und macht euch schlau!
 
 Grundsätzlich:
+
 * Werkzeuge und Betriebsmittel werden nur zu ihrem vorgesehenen Zweck eingesetzt
 * Alles funktioniert ganz einfach und ohne Anstrengung
 * Wenn ich nicht weiss wie etwas funktioniert, frage ich
@@ -85,7 +87,7 @@ Das Lab ist mit Schwerlastregalen ausgestattet.
 * **Losen Inhalt vermeiden:** Um oben Genanntes zu vermeiden
 * **Sicht gewährleisten – ggf. zu zweit**
 * **Keine Verkehrswege & Notausgänge verstellen**
-* **Immer nur eine Schublade öffnen – Schubladen sauber schliessen:** Die meisten unserer Schubladenkästen sind mit einer Mechanik ausgestattet, die verhindert dass mehrere Schubladen gleichzeitig herausgezogen werden können. Dies verhindert dass der Kasten in Richtung der Schubladen umkippen kann. Falls sich die Schubladen nicht öffnen lassen, ist vermutlich eine andere Schublade nicht sauber geschlossen. Baim Schliessen der Schubladen darauf achten dass sie vollständig geschlossen wird
+* **Immer nur eine Schublade öffnen – Schubladen sauber schliessen:** Die meisten unserer Schubladenkästen sind mit einer Mechanik ausgestattet, die verhindert dass mehrere Schubladen gleichzeitig herausgezogen werden können. Dies verhindert dass der Kasten in Richtung der Schubladen umkippen kann. Falls sich die Schubladen nicht öffnen lassen, ist vermutlich eine andere Schublade nicht sauber geschlossen. Beim Schliessen der Schubladen darauf achten dass sie vollständig geschlossen wird
 
 # Werkzeuge und Betriebsmittel
 Zu unserer Lab-Ausstattung gehören sowohl Werkzeuge (z.B.: Hammer, Schraubenzieher, Akkuschrauber), als auch Betriebsmittel (z.B.: Klebstoffe, Lötzinn, Schmierstoffe). Für beide gelten Regeln zur Nutzung. Diese Regeln lassen sich weitgehend in zwei Kategorien einteilen:
