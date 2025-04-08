@@ -36,7 +36,7 @@ Damit ihr sicher mit den Werkzeugen, Einrichtungen und Betriebsmitteln arbeiten 
 # Personen
 Das Lab wird von wechselnden Personen betreut. Hier eine kleine Übersicht an Menschen die euch unterstützen:
 
-* Lab-Leitung: [Prof. Andreas Muxel](andreas.muxel@tha.de)
+* Lab-Leitung: [Prof. Andreas Muxel](mailto:andreas.muxel@tha.de)
 * Ausleihe und Unterstützung zu den Öffnungszeiten: Studentische Hilfkräfte
 * Tutorien und Projektunterstützung: Tutorinnen
 
