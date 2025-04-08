@@ -104,12 +104,12 @@ Wir gehen davon aus dass ihr euch über die zur Verfügung gestellten Werkzeuge 
 # Lötarbeitsplatz
 Wir haben mehrere Lötarbeitsplätze für die wir euch ein paar separate Hinweise geben möchten und für die besondere Regeln gelten.
 
-* Gelötet wird ausschließlich unter Aufsicht. Sagt einer Aufsichtsperson Bescheid dass ihr jetzt lötet.
+* Gelötet wird ausschließlich nach dem 4-Augen Prinzip. Sagt einer weiteren Person Bescheid dass ihr jetzt lötet.
 * Beim Löten besteht Verbrennungs- und Brandgefahr. Handelt demensprechend.
 * Lötet unter keinen Umständen unter Spannung stehende Schaltungen. Prüft separat ob Spannung anliegt bevor ihr lötet. Ein Kondensator in der Schaltung kann immernoch geladen sein, obwohl ihr den Strom abgesteckt habt!
 * Verwendet nur die bereitgestellten Flussmittel und Lötzinn.
 * Benutzt die bereitgestellte Lötdampfabsaugung.
-* Erhitzte Bauteile können gesundheitsgefährdende Stoffe ausdampfen. Das riecht nach frisch gebackener Elektronik? Dann ist es sehr wahrscheinlich kaputt und ungesund. Informiert euch über die Bauteileigenschaften bevor ihr den Lötkolben ansetzt.
+* Erhitzte Bauteile können gesundheitsgefährdende Stoffe ausgasen. Das riecht nach frisch gebackener Elektronik? Dann ist es sehr wahrscheinlich kaputt und ungesund. Informiert euch über die Bauteileigenschaften bevor ihr den Lötkolben ansetzt.
 * Lest euch in die Bedienungsanleitung der Lötstation ein bevor ihr sie benutzt!
 
 # 3D Druck
