@@ -28,16 +28,19 @@ Damit ihr sicher mit den Werkzeugen, Einrichtungen und Betriebsmitteln arbeiten 
 
 # Organisation des Lab
 * Das Lab wird von studentischen Hilfskräften betreut. Diese stehen euch bei Fragen zur Seite, übernehmen organisatorische Aufgaben und unterstützen die Laborleitung. Jeder ist im Lab für sein eigenes Handeln und dessen Folgen selbst verantwortlich.
+
 * Das Lab hat Öffnungszeiten (Incom Workspace, Tür). Zu diesen Öffnungszeiten ist eine studentische Hilfskraft im Lab und zu diesen Zeiten könnt ihr das Lab nutzen, **sofern ihr das Quiz in diesem Moodle Raum erfolgreich abgeschlossen habt**. Die studentische Hilfskraft wird dies prüfen.
 * Es finden Lehrveranstaltungen im Lab statt. Lasst das Lab so zurück dass die nächste Lehrveranstaltung direkt stattfinden kann.
 
 # Personen
 Das Lab wird von wechselnden Personen betreut. Hier eine kleine Übersicht an Menschen die euch unterstützen:
+
 * Lab-Leitung: [Prof. Andreas Muxel](andreas.muxel@tha.de)
 * Ausleihe und Unterstützung zu den Öffnungszeiten: Studentische Hilfkräfte
 * Tutorien und Projektunterstützung: Tutorinnen
 
 # Allgemeine Verhaltensregeln im Lab
+
 * **Kein Essen & Trinken innerhalb des Prototyping Lab:** nicht nur dass wir unseren Microcontrollern ungern das Schwimmen lernen würden, im Lab wird auch mit Stoffen hantiert die nicht mit Lebensmitteln in Kontakt kommen sollen
 * **Ordnung:** versteht sich von selbst, oder?
 * **Bedachtes Handeln:** Bloß it hudla - und die Denkmurmel einsetzen :brain:! Bringt Zeit und gute Laune mit. Schnell, schnell und hastig ist selten was Gutes bei rumgekommen. Ihr werdet im Lab sehr wahrscheinlich mit Mikrocontrollern, Sensoren oder Werkzeug arbeiten. Passt auf unsere Schätzchen auf und wenn mal was kaputt geht (das passiert einfach...auch uns), sagt der Hilfskraft oder Leitung Bescheid. Eure studentische Haftpflichtversicherung kommt höchstwahrscheinlich für Missgeschicke auf, meistens sind die Teile aber so günstig dass ein Ersatz schneller selbst besorgt ist.
@@ -59,6 +62,7 @@ Grundsätzlich:
 
 ## Regale
 Das Lab ist mit Schwerlastregalen ausgestattet.
+
 * **Niemals in Regale steigen:** Stets das Podest für Zugriff auf obere Regaletagen verwenden.
 * **Regale nicht über die angegebene Nutzlast belasten:** Die Nutzlast ist am Feld angegeben
 * **Keine dynamischen Lasten:** Nicht im Regal sägen, handwerken, rütteln oder sonstige Arbeiten verrichten die das Regal zum Schwingen bringen  
@@ -66,6 +70,7 @@ Das Lab ist mit Schwerlastregalen ausgestattet.
 * **Ladegut darf nicht aus dem Regal herausragen**
 
 ## Leitern, Tritte und Podeste
+
 * **Keine Stühle/Tische als Tritte verwenden**
 * **Intaktes Schuhwerk benutzen:** Keine FlipFlops, barfuß oder Plateauschuhe
 * **Immer vollständig aufstellen:** Leitern immer komplett aufklappen, Podest immer bremsen
@@ -73,6 +78,7 @@ Das Lab ist mit Schwerlastregalen ausgestattet.
 * **Vorsicht bei Feuchtigkeit oder Verschmutzung**
 
 ## Rollkästen und -schränke
+
 * **Bremsen vor dem Bewegen lösen – und wieder schliessen**
 * **Langsam bewegen**
 * **Besondere Vorsicht bei abschüssigem Untergrund:** Die Rollen verstecken das Gewicht eines Rollschranks, Inhalt kann im Schrank ruschen und den Schwerpunkt verlagern
@@ -83,6 +89,7 @@ Das Lab ist mit Schwerlastregalen ausgestattet.
 
 # Werkzeuge und Betriebsmittel
 Zu unserer Lab-Ausstattung gehören sowohl Werkzeuge (z.B.: Hammer, Schraubenzieher, Akkuschrauber), als auch Betriebsmittel (z.B.: Klebstoffe, Lötzinn, Schmierstoffe). Für beide gelten Regeln zur Nutzung. Diese Regeln lassen sich weitgehend in zwei Kategorien einteilen:
+
 * **Bedienungsanleitungen:** Diese enthalten grundlegende Informationen zur Bedienung von Werkzeugen. Diese findet ihr [hier](https://cloud.hs-augsburg.de/index.php/s/KLpJJ6Ji9xcs7NL).
 * **Sicherheitsdatenblätter:** Diese enthalten Informationen über die Gefahren, Zusammensetzungen und Notfallmaßnahmen über Betriebsmittel und sind [hier](https://cloud.hs-augsburg.de/index.php/s/RxP2EBXFnCXsiXe) zu finden.
 
@@ -94,6 +101,7 @@ Wir gehen davon aus dass ihr euch über die zur Verfügung gestellten Werkzeuge 
 
 # Lötarbeitsplatz
 Wir haben mehrere Lötarbeitsplätze für die wir euch ein paar separate Hinweise geben möchten und für die besondere Regeln gelten.
+
 * Gelötet wird ausschließlich unter Aufsicht. Sagt einer Aufsichtsperson Bescheid dass ihr jetzt lötet.
 * Beim Löten besteht Verbrennungs- und Brandgefahr. Handelt demensprechend.
 * Lötet unter keinen Umständen unter Spannung stehende Schaltungen. Prüft separat ob Spannung anliegt bevor ihr lötet. Ein Kondensator in der Schaltung kann immernoch geladen sein, obwohl ihr den Strom abgesteckt habt!
@@ -110,6 +118,7 @@ Einen Einstieg für 3D Druck-Neulinge gibt es von einem ehemaligen Studierenden 
 Eine Übersicht über die Drucker, Software und Material gibt es auch in unserem [Wiki](https://github.com/HybridThingsLab/protobase/wiki/3D-Printing)
 
 Die Drucker haben auch ein paar Eigenschaften die zu beachten sind:
+
 * Das induktiv beheizte Druckbett ist für Träger von Herzschrittmachern und technischen Implantaten lebensgefährlich
 * 3D Drucker laufen automatisch an und haben für Finger gefährliche Einzugstellen. Das Gehäuse sollte nach Start des Drucks geschlossen werden und erst nach Ende wieder geöffnet werden.
 * Nur bereitgestellte Filamente verdrucken – nur die zugehörigen Druckeinstellungen verwenden
@@ -126,6 +135,7 @@ Macht euch mit dem [Alarmplan](https://www.tha.de/Binaries/Binary_30453/2025-Ala
 4. Wenn die Situation unter Kontrolle ist, über das bereitstehende Telefon bei der 5 anrufen, die hausinternen Hilfskräfte informieren und den Notfall melden.
 
 # Rechtlicher Rahmen
+
 * Ihr seid für euch selbst verantwortlich
 * Sollte etwas kaputt gehen, müsst ihr für den Schaden aufkommen
 * Wir empfehlen euch eine studentische Haftpflichtversicherung
